@@ -1,6 +1,7 @@
 //EECS 348 Lab 5 Problem 2
 //Purpose: C code that allows user input and prints all possible combinations of scoring plays.
 //Author: Anna Lin
+//Last Modified: 14 Oct 2023
 
 #include <stdio.h>
 #include <math.h> //Used for flooring numeric values
