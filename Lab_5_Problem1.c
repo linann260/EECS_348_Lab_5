@@ -1,3 +1,7 @@
+//EECS 348 Lab 5 Problem 1
+//Purpose: C code that prints monthly sales report.
+//Author: Anna Lin
+
 #include <stdio.h>
 
 void monthly_report(float monthly_sales[], char month[][25]){ 
