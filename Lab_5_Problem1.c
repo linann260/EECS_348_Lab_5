@@ -1,6 +1,7 @@
 //EECS 348 Lab 5 Problem 1
 //Purpose: C code that prints monthly sales report.
 //Author: Anna Lin
+//Last Modified: 14 Oct 2023
 
 #include <stdio.h>
 
